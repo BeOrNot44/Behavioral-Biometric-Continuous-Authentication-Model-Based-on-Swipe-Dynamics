@@ -78,5 +78,6 @@ the results of the classification algorithms.
 ![Alt Text](https://github.com/BeOrNot44/Continuous-Touch-Screen-Authentication-Model-Based-on-Swipe-Dynamics/blob/main/Images/Accu_Compartion.png?raw=true)
 
 # 1.8 Video:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bUh61Y1yY-w" frameborder="0" allowfullscreen></iframe>
+
+[![Project Demo](https://img.youtube.com/vi/bUh61Y1yY-w/0.jpg)](https://www.youtube.com/watch?v=bUh61Y1yY-w)
 
