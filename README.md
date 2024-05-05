@@ -74,8 +74,4 @@ The ideal parameters, such as the number of neighbors for KNN, the maximum depth
 ![EER Comparison](https://github.com/BeOrNot44/Continuous-Touch-Screen-Authentication-Model-Based-on-Swipe-Dynamics/blob/main/Images/EER_compartion.png?raw=true)
 ![Accuracy Comparison](https://github.com/BeOrNot44/Continuous-Touch-Screen-Authentication-Model-Based-on-Swipe-Dynamics/blob/main/Images/Accu_Compartion.png?raw=true)
 
-### 8. Video:
-
-This video, created a year ago. It does not provide any new information beyond emphasizing the significance of this project.
-
-[![Project Demo](https://img.youtube.com/vi/bUh61Y1yY-w/0.jpg)](https://www.youtube.com/watch?v=bUh61Y1yY-w)
+#### Have a Good Day 😊
